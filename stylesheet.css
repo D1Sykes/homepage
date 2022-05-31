@@ -4,9 +4,14 @@ body {
 
 .titles {
     text-align: center;
+    border: 10px solid red
 }
 
 .picture {
     size: 100px, 100px, 100px, 100px;
+    border: 10px solid yellow
 }
 
+.info {
+    border: 10px solid blue
+}
