@@ -1,0 +1,12 @@
+body {
+    background-color: lightslategray;
+}
+
+.titles {
+    text-align: center;
+}
+
+.picture {
+    size: 100px, 100px, 100px, 100px;
+}
+
